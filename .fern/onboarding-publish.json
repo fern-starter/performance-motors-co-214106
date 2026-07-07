@@ -1,0 +1,10 @@
+{
+  "desiredContentHash": "e5f64dab4792afbab4cff4d60bbaecbf49a21c0ed4539e7abd2f9180caa44c3a",
+  "docsUrl": "https://harry-potter-api.docs.buildwithfern.com",
+  "starter": {
+    "repoOwner": "fern-api",
+    "repoName": "docs-starter-internal",
+    "commitSha": "63ef119238a1280f25fb1948cf2645fa9b7e9a21",
+    "label": "2026-05-21-upgrade-fern-cli-5.35.4"
+  }
+}
